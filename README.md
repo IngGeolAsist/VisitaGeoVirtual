@@ -1,1 +1,1 @@
-# VisitaGeoVirtual
+# Visita Geológica Virtual
